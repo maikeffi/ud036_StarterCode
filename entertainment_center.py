@@ -26,7 +26,7 @@ dknight = md.Trailer("The Dark Knight",
                      "https://i.imgur.com/oRueeKN.png",
                      "https://www.youtube.com/watch?v=EXeTwQWrcwY")
 #creates a list of movie for the website with the data created above
-movies = [pfiction,rDogs,scarface,serpico,dknight]
+movies = [pfiction, rDogs, scarface, serpico, dknight]
 
 #launches the website
 fresh_tomatoes.open_movies_page(movies)
