@@ -12,7 +12,8 @@ pfiction = md.Trailer("Pulp Fiction",
 rDogs = md.Trailer("Reservoir Dogs",
                    "After a simple jewelry heist goes terribly wrong, "
                    "the surviving criminals begin to suspect that one of them is a police informant.",
-                   "https://i0.wp.com/www.la-screenwriter.com/wp-content/uploads/2013/04/reservoir_dogs_1992_8.jpg?resize=682%2C1024",
+                   "https://i0.wp.com/www.la-screenwriter.com/wp-content"
+                   "/uploads/2013/04/reservoir_dogs_1992_8.jpg?resize=682%2C1024",
                    "https://www.youtube.com/watch?v=vayksn4Y93A")
 
 scarface = md.Trailer("Scarface",
